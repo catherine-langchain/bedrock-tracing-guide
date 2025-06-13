@@ -6,14 +6,14 @@ This project demonstrates how to instrument and trace `invoke_model` and `invoke
 
 # 🛠 Setup
 
-1. **Clone the repo**
+1. Clone the repo
 
 ```shell
 git clone https://github.com/catherine-langchain/bedrock-tracing-guide.git
 cd bedrock-tracing-guide
 ```
 
-2. * Create and edit `.env` file in the root directory:
+2. Create and edit `.env` file in the root directory:
 ```shell
 # Copy the .env.example file to .env
 cp .env.example .env
